@@ -1,19 +1,6 @@
 # meditation
+Meditation UI is a serene and user-friendly mobile application designed with Flutter and powered by GetX for efficient state management. Experience tranquility with a modern, adaptive interface that seamlessly fits all screen sizes. Explore a rich library of guided meditation videos tailored to relaxation, stress relief, and improved sleep. Delight in calming animations and soothing audio that enhance your meditation journey, making each session immersive and profoundly peaceful.\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 ![medicla](https://github.com/user-attachments/assets/c477637f-a092-401d-be06-e17db41e8aa9)
 ![1](https://github.com/user-attachments/assets/0514f979-7eae-49aa-b991-ff291e167e0f)
 ![2](https://github.com/user-attachments/assets/7812b003-52a8-4382-b45d-529492a1030a)
